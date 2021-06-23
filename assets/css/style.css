@@ -1,0 +1,22 @@
+body {
+    background-color: #F2EDD9;
+    color: #444;
+}
+
+.header-div {
+    background-color: #FBD266;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+
+.description-div {
+    background-color: #D76735;
+    color: #FAFAFA;
+    padding: 30px 10px;
+    margin-bottom: 40px;
+}
+
+.challenges-div {
+    background-color: #8FB0A9;
+}
