@@ -1,11 +1,11 @@
 body {
     background-color: #F2EDD9;
     color: #444;
+    text-align: center;
 }
 
 .header-div {
     background-color: #FBD266;
-    text-align: center;
     padding: 30px;
     margin-bottom: 40px;
 }
@@ -19,4 +19,9 @@ body {
 
 .challenges-div {
     background-color: #8FB0A9;
+}
+
+.challenge-card {
+    background-color: #C7D3C9;
+    margin: 20px 5px;
 }
